@@ -1,0 +1,7 @@
+1. Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?   Los lenguajes de programacion como tal no e>
+
+2. Que tipo de maquina soporta virtualbox?  Los sistemas operativos que se pueden emular con VirtualBox son Windows (3. x, 95, 98, ME, NT 4.0, 2000, XP,>
+
+3. Es el software encargado de administrar y controlar las maquinas virtuales en un entorno de virtualizacion, crea y getiona multiples maquinas.
+
+4.si una maquina virtual se rompe, en que afecta a las otras? Las maquinas virtuales de procesos se ejecutan en un mismo servidor para ejecutar varias i>
